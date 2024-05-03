@@ -24,5 +24,5 @@ The `main.ipynb` notebook runs the GUI. The `testing.ipynb` notebook holds the c
 To run the main program, run the `main.ipynb` notebook.
 
 # Testing
-For testing, you need to extract the `triviaqa.json` file. Note that for the code, the TriviaQA dataset must be manually downloaded. Then, run the `testing.ipynb` notebook.
+For testing, you need to unzip the `triviaqa.json.zip` file. Note that for the code, the TriviaQA dataset must be manually downloaded. Then, run the `testing.ipynb` notebook.
 
