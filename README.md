@@ -12,4 +12,6 @@ conda install requests beautifulsoup4 pandas tabulate
 pip install import-ipynb transformers datasets
 ```
 
-You then need to extract the `triviaqa.json` file.
+You then need to extract the `triviaqa.json` file. Note that for the code, the TriviaQA dataset must be manually downloaded.
+
+Finally, to run the main program, you just need to run the `main.ipynb` notebook. The `testing.ipynb` notebook holds the code related to testing, and the `functions.ipynb` holds the supplementary functions for text extracting and obtaining the final answer.
