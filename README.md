@@ -1,6 +1,6 @@
 # Final Year Project 
 
-This repository contains the source code for my final year project. To run the code, you need to clone the full repository.
+This repository contains the source code for my final year project. The different aspects of the code is split into different notebooks, which are explained later in this README file. To run the code, you need to clone the full repository.
 
 # Installing libraries 
 
@@ -14,8 +14,11 @@ conda install requests beautifulsoup4 pandas tabulate
 pip install import-ipynb transformers datasets
 ```
 
+# Purpose of each notebook
+The `main.ipynb` notebook runs the GUI. The `testing.ipynb` notebook holds the code related to testing, and the `functions.ipynb` holds the supplementary functions for extracting text and obtaining the final answer.
+
 # Running the application
-To run the main program, run the `main.ipynb` notebook. The `testing.ipynb` notebook holds the code related to testing, and the `functions.ipynb` holds the supplementary functions for extracting text and obtaining the final answer.
+To run the main program, run the `main.ipynb` notebook.
 
 # Testing
 For testing, you need to extract the `triviaqa.json` file. Note that for the code, the TriviaQA dataset must be manually downloaded. Then, run the `testing.ipynb` notebook.
