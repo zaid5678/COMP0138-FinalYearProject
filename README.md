@@ -23,6 +23,9 @@ The `main.ipynb` notebook runs the GUI. The `testing.ipynb` notebook holds the c
 # Running the application
 To run the main program, run the `main.ipynb` notebook.
 
+# Changing the BERT model
+To change the model, open the `functions.ipynb` notebook and go into the `get_answers` function. You can specify the `model` easily. They are already defined and can easily be changed by commenting lines of code for convenience and reusability.
+
 # Testing
 For testing, you need to unzip the `triviaqa.json.zip` file. Note that for the code, the TriviaQA dataset must be manually downloaded. Then, run the `testing.ipynb` notebook.
 
