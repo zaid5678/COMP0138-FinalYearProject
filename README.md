@@ -6,7 +6,7 @@ You first need to install the appropriate libraries. For `pip`, you can use the 
 ```
 pip install -r requirements.txt
 ```
-For conda, you can use the following commands:
+For `conda`, you can use the following commands:
 ```
 conda install requests beautifulsoup4 pandas tabulate
 pip install import-ipynb transformers datasets
