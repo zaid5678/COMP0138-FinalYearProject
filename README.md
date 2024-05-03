@@ -1,6 +1,9 @@
 # Final Year Project 
 
-This repository contains the source code for my final year project. The different aspects of the code is split into different notebooks, which are explained later in this README file. To run the code, you need to clone the full repository.
+This repository contains the source code for my final year project. The different aspects of the code are split into various notebooks, which are explained later in this README file. To run the code, you need to clone the full repository. You can do this using the following command (there is more than one way to do this, the below is just an example).
+```
+https://github.com/zaid5678/COMP0138-FinalYearProject.git
+```
 
 # Installing libraries 
 
@@ -15,7 +18,7 @@ pip install import-ipynb transformers datasets
 ```
 
 # Purpose of each notebook
-The `main.ipynb` notebook runs the GUI. The `testing.ipynb` notebook holds the code related to testing, and the `functions.ipynb` holds the supplementary functions for extracting text and obtaining the final answer.
+The `main.ipynb` notebook runs the GUI. The `testing.ipynb` notebook holds the code related to testing and the `functions.ipynb` holds the supplementary functions for extracting text and obtaining the final answer.
 
 # Running the application
 To run the main program, run the `main.ipynb` notebook.
