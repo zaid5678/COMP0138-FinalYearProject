@@ -1,9 +1,6 @@
 # Final Year Project 
 
-This repository contains the source code for my final year project. The different aspects of the code are split into various notebooks, which are explained later in this README file. To run the code, you need the full repository. You can do this using the following command (the below is just an example; there is more than one way to do this).
-```
-git clone https://github.com/zaid5678/COMP0138-FinalYearProject.git
-```
+This repository contains the source code for my final year project. The different aspects of the code are split into various notebooks, which are explained later in this README file. To run the code, you need the full repository. 
 
 # Installing libraries 
 
